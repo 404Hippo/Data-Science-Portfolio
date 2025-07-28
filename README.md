@@ -6,6 +6,8 @@ This is my Data Science Portfolio. This repository showcases my work on various 
 
  1. **Columbia University Summer Session Final Project - Spotify**
      - Spotify Popularity from music types and specs
+     - our project hypothesis: popular songs tend to be released during summer months
+     - our research shows: popular songs vary through spring months and january.
 
 ## Technologies
 This portfolio includes work with various data science tools and libraries. Some of the key technologies I've used include:
