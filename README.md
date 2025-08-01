@@ -9,6 +9,7 @@ This is my Data Science Portfolio. This repository showcases my work on various 
      - our project hypothesis: popular songs tend to be released during summer months
      - our research shows: popular songs are released right before summer
      - research methods: normalizingm numeric value conversions,  subset creation, graphing using pandas, numpy, matplotlib, etc.
+     - Data set used: Kaggle Spotify 2024 Most Popular Songs
    
 
 ## Technologies
